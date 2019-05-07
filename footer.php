@@ -1,33 +1,20 @@
-<div class="container sm-pad-top">
+<div class="container">
 
-    <div class="row text-center">
-        <div class="col-lg-2 col-sm-2"></div>
-
-        <div class = "col-lg-2 col-sm-2 justify-content-end">
-            <img class="img-fluid small-img" src="img/pp.gif" alt="Logo PP"><br><br>
-            <div 
-                class="fb-like" 
-                data-href="https://www.facebook.com/Politechnika.Poznanska"
-                data-layout="button_count" 
-                data-colorscheme="dark"
-                data-size="large"
-                data-action="like" 
-                data-show-faces="false">
+    <div class="facebook-panel">
+        <div class="facebook-panel-content">
+            <div class="facebook-panel-details float-left">
+                <h6 class="text-center">Wydział Informatyki</h6>
+                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim erat nec.</p>
             </div>
-        </div>
-        <div class="col-lg-2 col-sm-2"></div>
-
-        <div class="col-lg-4 col-sm-4">
-            <h2 class="text-vw-big">Social media:</h2>
-            <div class="sm-pad-icon text-vw">
-                <a href="#" class="fa fa-twitter"></a>
-                <a href="#" class="fa fa-youtube"></a>
-                <a href="#" class="fa fa-google"></a>
-                <a href="#" class="fa fa-linkedin"></a>
-            </div>
+            <div class="fb-page" 
+            data-href="https://www.facebook.com/Politechnika.Poznanska/"
+            data-width="500" 
+            data-hide-cover="false"
+            data-show-facepile="false"></div>
         </div>
     </div>
-    <div class="row text-center sm-pad-top text-vw">
+    
+    <div class="row text-center xs-pad text-vw top-border">
         <div class="col">
             <p>Dominik Grzegorzewicz</p>
         </div>

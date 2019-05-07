@@ -35,6 +35,9 @@
                 {
                     echo '<li class="nav-item">';
                     echo '<a class="nav-link" href="memory.php">Memory</a></li>';
+
+                    echo '<li class="nav-item">';
+                    echo '<a class="nav-link" href="video.php">Video</a></li>';
                 }
             ?>
             <!-- END TEST -->

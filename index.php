@@ -10,6 +10,7 @@
     <meta charset="utf-8">
     <title>Dominik Grzegorzewicz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#2D3142">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -50,7 +51,7 @@
     <section id="first" class="sm-pad">
         <div class="container">
         <div class="headings">
-            <h2 class="title">Awesome Title Heading</h2>
+            <h2 class="title">Zaloguj się aby zagrać w grę</h2>
             <span class="hr"></span>
         </div>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit dolor sed lacus condimentum, ut semper libero vestibulum. Suspendisse placerat massa erat, non porttitor mauris varius nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus a gravida lacus. Duis placerat a massa in sodales. Phasellus finibus urna nisl, quis bibendum dui condimentum sed. Fusce blandit mi tincidunt accumsan semper. Etiam vulputate mi id dictum tempus. Donec congue pretium nibh, in tincidunt sapien convallis quis. Nulla scelerisque commodo quam sit amet porta. Sed commodo tortor sapien, nec molestie velit tempor sed. Duis et convallis odio, a sagittis diam. Proin consequat velit sed pharetra hendrerit.</p>
