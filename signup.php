@@ -143,7 +143,7 @@
     <section id="third" class="sm-pad">
         <div class="container">
             <div class="headings">
-                    <h2 class="title">Create account</h2>
+                    <h2 class="title">Utwórz konto</h2>
                     <span class="hr"></span>
             </div>
             <div class="row sm-pad-top">
@@ -181,7 +181,7 @@
                         }
                         ?>
                         <div class="form-group">
-                            <label for="password">Password:</label>
+                            <label for="password">Hasło:</label>
                             <input type="password" class="form-control" name="password">
                         </div>
                         <?php 
@@ -192,7 +192,7 @@
                         }
                         ?>
                         <div class="form-group">
-                            <label for="repasswd">Retype password:</label>
+                            <label for="repasswd">Powtórz hasło:</label>
                             <input type="password" class="form-control" name="repasswd">
                         </div>
                         <?php 
@@ -204,7 +204,7 @@
                         ?>
                         <div class="form-group form-check">
                             <label class="form-check-label">
-                            <input class="form-check-input" type="checkbox" name="check"> I agree the Terms of Service</label>
+                            <input class="form-check-input" type="checkbox" name="check">Zaznacz aby potwierdzić</label>
                         </div>
                         <?php 
                         if(isset($_SESSION['capFail']))
@@ -215,7 +215,7 @@
                         ?>
                         <div class="text-center">
                             <div class="g-recaptcha" data-sitekey="6Lc946AUAAAAAPby9Ftw4FB0oh0hSB-N21rZRmBU"></div><br>
-                            <button type="submit" class="btn btn-primary text-center">Create account</button>
+                            <button type="submit" class="btn btn-primary text-center">Utwórz konto</button>
                         </div>
                     </form>
 

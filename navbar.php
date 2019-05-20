@@ -3,7 +3,7 @@
     if($_SESSION['pageId']=='index')
         echo '<nav class="navbar navbar-expand-md navbar-dark">';
     else
-        echo '<nav class="navbar scrolled navbar-expand-md navbar-dark">';
+        echo '<nav class="navbar navbar-expand-md navbar-dark scrolled">';
 
 ?>
         <!-- Brand/logo -->
@@ -11,14 +11,19 @@
         <a class="navbar-brand" href="index.php#start">Dominik Grzegorzewicz</a>
         
         <?php
-            if($_SESSION['pageId']=='index')
-            {
-                echo '<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">';
-                echo '<span class="navbar-toggler-icon"></span></button>';
-            }
+            //if($_SESSION['pageId']=='index')
+            //{
+            //    echo '<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">';
+            //    echo '<span class="navbar-toggler-icon"></span></button>';
+            //}
 
         ?>
-        
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span></button>
+
+
+
         <div class="collapse navbar-collapse justify-content-center text-uppercase" id="collapsibleNavbar">
         <!-- Links -->
         <ul class="navbar-nav">

@@ -29,7 +29,7 @@
 <section id="memory" class="sm-pad">
     <div class="container">
         <div class="headings">
-            <h2 class="title">Memory game</h2>
+            <h2 class="title">Zagraj w Memory</h2>
             <span class="hr"></span>
         </div>
         

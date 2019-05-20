@@ -29,7 +29,7 @@
     <section id="third" class="sm-pad">
         <div class="container">
             <div class="headings">
-                    <h2 class="title">Login</h2>
+                    <h2 class="title">Zaloguj się</h2>
                     <span class="hr"></span>
             </div>
             <div class="row sm-pad-top">
@@ -46,11 +46,11 @@
                             <input type="text" class="form-control" name="login">
                         </div>
                         <div class="form-group">
-                            <label for="password">Password:</label>
+                            <label for="password">Hasło:</label>
                             <input type="password" class="form-control" name="password">
                         </div>
                         <div class="text-center">
-                            <button type="submit" class="btn btn-primary text-center">Login</button>
+                            <button type="submit" class="btn btn-primary text-center">Zaloguj</button>
                         </div>
                     </form>
 
@@ -66,6 +66,5 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
-    <script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
